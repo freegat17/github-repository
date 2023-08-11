@@ -1,1 +1,1 @@
-Print ("Another file")
+Print ("Another file by QA")
