@@ -1,1 +1,1 @@
-Print (""Hello Python!)
+Print ("Hello Python!")
